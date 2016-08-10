@@ -1,0 +1,6 @@
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\BaseballStats\BaseballStats\bin\Debug\BaseballStats.exe.config
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\BaseballStats\BaseballStats\bin\Debug\BaseballStats.exe
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\BaseballStats\BaseballStats\bin\Debug\BaseballStats.pdb
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\BaseballStats\BaseballStats\obj\Debug\BaseballStats.csprojResolveAssemblyReference.cache
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\BaseballStats\BaseballStats\obj\Debug\BaseballStats.exe
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\BaseballStats\BaseballStats\obj\Debug\BaseballStats.pdb
